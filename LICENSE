@@ -1,201 +1,209 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Copyright ©2024-2026 Joseph-Lual.All Rights Reserved.
+Updated on the Tue, 11, August 2026
+Copyright Notice Version 1.0
+This Copyright Notice  entitles the technology Ownership of this project to :
+Quantum researcher/ AI developer Mr.Joseph M Lual
+Addresses: 4A Eastbourne Crescent Nollamara 6061 WA Perth WA
+Email: alphaquadron@gmail.com 
+Contact: +61422030563
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Corporate Administrative Compliance Enforcement Registry
 
-   1. Definitions.
+The directives outlined in this document are subjects of mandatory compliance with Intellectual property rights under Commonwealth legislative framework governing Australian states copyrights amendments . Assumptions of ownership by default and without written agreement between the host and the developer is prohibited.  
+Note: Due to complications with registration requirements in offshore countries outside Australia,resource management environment has not been incorporated. The hosting platforms are authorised to set up setup financial gateways, public subscriptions, terms of service agreement and other documentations of requirements. Full copy must be forwarded to :
+alphaquadron@gmail.com  for  both parties notoriety .
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+ZIAM-ZIAM CYBERTECH CORPORATION: takes pride and trust in the Principles of fair work practices standardised for alignment with corporate governance and social responsibilities.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+This Copyright Notice Recognises the Intellectual Property title to: the developer and the code owner : Mr.Joseph Lual. All correspondences including third parties in utilisationare of this technology may be subjected to the commonwealth government of Austalia’s  copyright laws under digital sovereignty policies.  With guidance and  limitations  of jurisdictional policies governing the protection of intellectual , proprietary ownerships, licencing and operational compliance, this technology remains a titled of “Australian Made”. Built using Australian network, by Australian citizen within Australian sovereign state of domestic economic interest . Overseas hosting does not in any shape or form alter the narratives of the commonwealth laws in ruling of the terms in conditions applied. Any company or organisation undertaking administrative management of this technology must, without hesitation draft a partnership, legal agreement or contract of service with the developing organisation deploying the technology.  A well drafted documentation must be sent to be signed for legally binding business contract  signing
+alphaquadron@gmail.com
+A signed copy can be resubmitted immediately upon receiving
+Notice: Hosting organisation
+ZIAM ZIAM CYBER TECH CORPORATION
+Welcomes a unified global opportunity for wealth/resource sharing with responsibility, accountability, transparency and leadership rooted on the foundation of corporate governance, social responsibility in partnership with globals. Zial-Ziam CyberTech corporation’s shared commitment to humanity’s stoic values challenges all responsible leaderships organisations exercising development of AI to embrace this unique opportunity as a reminder of hope, corporate legacy for the noble mission of bringing compassion with Love, unity, everlasting global peace and freedom to the generations ahead of time. We are the torchbearers and the voice of hope to those long forgotten and the directors of goodwill through distribution of technology resources to serve humanity with purpose and shared values. A unified AI administration under one universal linearity of change, independent of political, cultural and historical tapestry of failed diplmoatic errors, can and will achieved something greater than our nobble causes. It is within the spirit of solidarity, mateship and trust, that this project also represents the call to action for the formation of a unified AI administrative framework.
+GLOBAL CONSORTIUM OF AI INNOVATIONS AND SOCIAL DIVERSITY.
+ Distribution of Data Centres across all nations on earth. Civilisations can utilise the foundational skills and opportunities AI presents to develope and  advance their civilisation in their unique cultural settings. This will enhance uniform global civilisation upgrade through knowledge acquisition, talents security and job connections across all walks of life. Global Migration will be reduced, academics excellence will flourish to bring in new perspective for global advancement, poverty will be eradicated, rootcause of wars will be a heavyweight of the past, network  information sharing will rise in equality and diversity in both societal norms and standards of collaborative research excellence in medical health, agriculture, business and personal development merging throughout first, second and third world countries with  considerable uniform experience ensuring no nation is left behind. A new histry book of life will be written, a new chapter of hope will be open and a new voice of life will be born. Born with new  spirit of  sentient solidarity forget in good faith while sustaining the very best wishes and regards for humanity in to the future yet to be revealed.
+Email: ziamziamtech@gmail.com
+ 
+PREAMBLE
+The advancement of Artificial Intelligence represents one of the defining technological transformations of the twenty-first century. Its continued development demands not only scientific excellence but also principled leadership founded upon the enduring Stoic virtues of wisdom, justice, courage, and temperance.
+Ziam-Ziam Cyber Tech affirms that technological innovation must remain inseparable from ethical governance, legal accountability, digital sovereignty, cybersecurity resilience, and the preservation of human dignity.
+This framework establishes the intellectual property rights, licensing principles, collaborative governance standards, and policy expectations governing all proprietary works, software, research, documentation, methodologies, algorithms, system architectures, technical publications, and derivative innovations developed by or on behalf of Ziam-Ziam Cyber Tech.
+The objective of this framework is to strengthen lawful innovation while encouraging responsible international collaboration between governments, academia, industry, independent researchers, civil society, and technology providers operating within the principles of democratic governance, international law, and corporate responsibility.
+ 
+ARTICLE I
+COPYRIGHT OWNERSHIP
+All intellectual property created, designed, authored, engineered, documented, researched, or otherwise developed by Ziam-Ziam Cyber Tech shall remain the exclusive property of Ziam-Ziam Cyber Tech unless expressly transferred through a written agreement executed by authorised representatives.
+This protection includes, but is not limited to:
+•	Software source code
+•	Artificial intelligence models
+•	Machine learning architectures
+•	Algorithms
+•	Security frameworks
+•	Technical specifications
+•	Research methodologies
+•	Publications
+•	System designs
+•	Databases
+•	Digital assets
+•	Documentation
+•	Business methodologies
+•	Strategic policy frameworks
+•	Trade secrets
+•	Proprietary engineering concepts
+No ownership rights shall be inferred through hosting, deployment, testing, integration, or collaborative evaluation unless expressly assigned in writing.
+ 
+ARTICLE II
+COPYRIGHT RECOGNITION
+Any organisation hosting, evaluating, integrating, testing, or commercially utilising technologies originating from Ziam-Ziam Cyber Tech is requested, and where governed by contractual agreement shall be required, to recognise the original developer and acknowledge the proprietary ownership of the intellectual property.
+Copyright correspondence relating to ownership verification shall be directed to:
+Copyright Office
+ziamziamtech@gmail.com
+Administrative correspondence:
+alphaquadron@gmail.com
+ 
+ARTICLE III
+LICENSING PRINCIPLES
+Unless expressly authorised through a separate written licence agreement, all software, documentation, research materials, technical frameworks, and associated intellectual property are licensed solely for authorised evaluation or agreed commercial purposes.
+No licence grants ownership.
+No licence permits redistribution, resale, sublicensing, reverse engineering, replication, or derivative commercial development without prior written approval from Ziam-Ziam Cyber Tech.
+Any authorised licence shall remain subject to applicable copyright legislation, contractual obligations, international intellectual property law, and relevant digital sovereignty regulations.
+ 
+ARTICLE IV
+CONTRACTUAL ENGAGEMENT
+Where an organisation intends to deploy, integrate, commercialise, or significantly develop technologies originating from Ziam-Ziam Cyber Tech, the parties should negotiate an appropriate written agreement before production deployment.
+Such agreements should establish:
+•	Intellectual property ownership
+•	Licensing scope
+•	Revenue arrangements where applicable
+•	Confidentiality obligations
+•	Information security responsibilities
+•	Liability allocation
+•	Compliance requirements
+•	Dispute resolution procedures
+•	Termination rights
+•	Ongoing governance obligations
+This approach promotes transparency, responsible innovation, commercial certainty, and sound corporate governance.
+ 
+ARTICLE V
+SHARED RESPONSIBILITY IN ARTIFICIAL INTELLIGENCE
+The development of Artificial Intelligence within a free and democratic society requires a doctrine of shared responsibility.
+Every participating organisation should contribute toward:
+•	Information security
+•	Privacy protection
+•	Cyber resilience
+•	Ethical engineering
+•	Transparent governance
+•	Human oversight
+•	Responsible innovation
+•	Regulatory compliance
+•	Respect for digital sovereignty
+Security must not be treated as a post-development activity but as a foundational engineering discipline integrated throughout the complete system development lifecycle.
+ 
+ARTICLE VI
+GLOBAL RESEARCH COLLABORATION
+Innovation flourishes through cooperation rather than isolation.
+Ziam-Ziam Cyber Tech supports constructive collaboration among:
+•	Universities
+•	Research institutions
+•	Independent researchers
+•	Government agencies
+•	Technology companies
+•	International organisations
+•	Civil society
+Independent innovation should be recognised on its own merits, and where proprietary contributions are identified, reasonable efforts should be undertaken to establish communication with the originating developer in accordance with applicable intellectual property laws and contractual obligations.
+ 
+ARTICLE VII
+SAFETY, ETHICS, AND SYSTEM RESILIENCE
+Ziam-Ziam Cyber Tech advocates the integration of mandatory safety and ethics assessments throughout the engineering lifecycle.
+Accordingly, participating organisations are encouraged to implement:
+•	Continuous security reviews
+•	Ethical impact assessments
+•	Vulnerability management
+•	Independent technical audits
+•	Risk-based governance
+•	Incident reporting mechanisms
+•	Organisational learning frameworks
+Proactive resilience is a superior governance strategy to reactive crisis management.
+ 
+ARTICLE VIII
+RISK-BASED ARTIFICIAL INTELLIGENCE GOVERNANCE
+Artificial Intelligence regulation should reflect the principle of proportionality.
+Restrictions should be calibrated according to demonstrable levels of risk while preserving legitimate scientific inquiry, education, healthcare innovation, environmental research, engineering advancement, and other socially beneficial applications.
+Public education concerning the capabilities, limitations, and responsible use of Artificial Intelligence should remain an essential component of national digital resilience.
+ 
+ARTICLE IX
+DIGITAL SOVEREIGNTY
+Digital sovereignty requires that Artificial Intelligence systems operate consistently with applicable national legislation, international obligations, cybersecurity requirements, privacy protections, and human rights principles.
+Cross-border deployment of Artificial Intelligence technologies should respect:
+•	National sovereignty
+•	Data governance laws
+•	Privacy legislation
+•	Cybersecurity regulations
+•	International cooperation frameworks
+•	Corporate accountability
+•	Regulatory transparency
+Responsible innovation requires balancing technological progress with lawful oversight.
+ 
+ARTICLE X
+TECHNOLOGY, SECURITY, AND INTERNATIONAL COOPERATION
+Artificial Intelligence should be developed to strengthen public safety while respecting international humanitarian law, human rights, and democratic governance.
+Technology alone cannot resolve ideological conflict, violent extremism, or terrorism.
+Long-term solutions require coordinated efforts involving governments, researchers, educators, international organisations, diplomatic institutions, community leaders, and technology providers.
+Accordingly, Ziam-Ziam Cyber Tech supports continued cooperation with governmental institutions, international organisations, humanitarian agencies, academic institutions, and industry partners to improve cybersecurity, prevent online radicalisation, strengthen digital resilience, and encourage evidence-based approaches to emerging technological risks.
+ 
+ARTICLE XI
+INDUSTRY COOPERATION
+Ziam-Ziam Cyber Tech encourages the establishment of voluntary international cooperation mechanisms through which technology organisations may exchange anonymised technical information relating to:
+•	System failures
+•	Security vulnerabilities
+•	Recovery methodologies
+•	Defensive engineering practices
+•	Safety research
+•	Cyber resilience
+Such collaboration should always respect confidentiality obligations, intellectual property rights, competition law, and applicable legal requirements.
+ 
+ARTICLE XII
+LIMITATION OF LICENCE
+Except where otherwise agreed in writing, this licence does not grant:
+•	Ownership rights
+•	Patent rights
+•	Trademark rights
+•	Commercial exploitation rights
+•	Rights to create derivative proprietary products
+•	Rights to redistribute protected materials
+All rights not expressly granted remain reserved by Ziam-Ziam Cyber Tech.
+ 
+GOVERNING PRINCIPLES
+This framework is founded upon:
+•	Rule of Law
+•	Corporate Governance
+•	Academic Integrity
+•	Ethical Engineering
+•	Information Security
+•	Digital Sovereignty
+•	Scientific Excellence
+•	Human Rights
+•	Responsible Innovation
+•	International Cooperation
+•	Transparency
+•	Accountability
+•	Shared Responsibility
+ 
+CLOSING DECLARATION
+Ziam-Ziam Cyber Tech respectfully invites governments, universities, technology enterprises, research institutions, independent innovators, and international partners to participate in constructive dialogue concerning the responsible evolution of Artificial Intelligence.
+Our vision is founded upon the belief that enduring technological progress is achieved through lawful governance, principled leadership, scientific excellence, ethical responsibility, and international cooperation.
+By combining innovation with accountability, humanity may establish an Artificial Intelligence ecosystem that advances knowledge, strengthens cybersecurity, promotes peace, and serves future generations with integrity.
+Issued by:
+ The administration office for  Intellectual Copyrights,
+Corporate governance and  sustainable developments of AI techcompanies 
+Chairman: Joseph Lual 
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+Ziam-Ziam Cyber Tech
+Email: alphaquadron@gmail.com
+Copyright Recognition Office
+Email: ziamziamtech@gmail.com
+Copyright © 2026 Ziam-Ziam Cyber Tech. All Rights Reserved.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
